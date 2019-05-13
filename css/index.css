@@ -10,3 +10,56 @@ body { margin-top: 0px; }
 table { border: 0px none; }
 td { font-family: arial; }
 td { font-size: 11.5pt; line-height: 18px; }
+
+table,td,th {
+
+}
+
+td,th{
+
+}
+
+th{
+    background-color: #BBB;
+}
+
+.leftitem{
+    width: 100px;
+}
+
+td
+.haiiro1{
+        background-color: #E0E0E0;
+}
+
+.haiiro{
+        background-color: #E0E0E0;
+}
+
+.midori{
+        background-color: #C4D79B;
+		text-align: left;
+}
+
+.leftitem{
+        background-color: #E0E0E0;
+}
+
+.leftitem-a{
+        background-color: #FFFFFF;
+		text-align: left;
+}
+
+.rightitem{
+        width: 500px;
+		background-color: #FFFFFF;
+		text-align: left;
+
+
+}
+.rightitem-white{
+        width: 500px;
+		background-color: #FFFFFF;
+		text-align: left;
+}
+
